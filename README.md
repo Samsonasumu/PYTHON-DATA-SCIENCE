@@ -1,3 +1,3 @@
 # PYTHON-DATA-SCIENCE
-https://www.kaggle.com/code/akritiupadhyayks/cancer-patients-data-analysis-classifiers
- ## this is the link to cancer logistic svm
+ https://www.kaggle.com/datasets/rishidamarla/cancer-patients-data
+ ## this is the link to cancer logistic svm dataset
