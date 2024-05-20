@@ -5,3 +5,7 @@
 ## Dataprep_featureEngineering
 
 https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+##loan prediction dataset
+
+https://www.kaggle.com/datasets/shaijudatascience/loan-prediction-practice-av-competition
